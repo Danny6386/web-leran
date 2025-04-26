@@ -1,0 +1,40 @@
+#Increment {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    background-color: rgb(201, 24, 24);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: none;
+    border-radius: 50%; /* Makes the button a perfect circle */
+    width: 200px; /* Set equal width */
+    height: 200px; /* Set equal height */
+    font-size: 40px;
+    text-align: center; /* Center text horizontally */
+    line-height: 100px; /* Center text vertically */
+    padding: 0; /* Remove padding to avoid distortion */
+}
+#display {
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+
+}  
+
+.button{
+    position: absolute;
+    top: 20%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    color: white;
+    background-color: rgb(201, 24, 24);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: none;
+    border-radius: 50%; /* Makes the button a perfect circle */
+    width: 200px; /* Set equal width */
+    height: 200px; /* Set equal height */
+    font-size: 40px;
+}
+
+  
+
